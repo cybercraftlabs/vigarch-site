@@ -16,7 +16,7 @@ const menuData: Menu[] = [
   {
     id: 33,
     title: "Wiki",
-    path: "https://github.com/cybercraftlabs/vigarch-os",
+    path: "https://github.com/cybercraftlabs/vigarch-os/wiki",
     newTab: false,
   },
   {

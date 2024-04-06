@@ -6,27 +6,27 @@ const blogData: Blog[] = [
     title: "Best UI components for modern websites",
     paragraph:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-01.jpg",
+    image: "/images/systemimg/1st.png",
     author: {
       name: "Samuyl Joshi",
-      image: "/images/blog/author-01.png",
+      image: "/images/systemimg/1st.png",
       designation: "Graphic Designer",
     },
-    tags: ["creative"],
+    tags: ["Minimal and Less Bloated"],
     publishDate: "2025",
   },
   {
     id: 2,
-    title: "9 simple ways to improve your design skills",
+    title: "",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-02.jpg",
+      "",
+    image: "/images/systemimg/3rd.png",
     author: {
-      name: "Musharof Chy",
-      image: "/images/blog/author-02.png",
-      designation: "Content Writer",
+      name: "",
+      image: "",
+      designation: "",
     },
-    tags: ["computer"],
+    tags: ["Vast Tools Collections"],
     publishDate: "2025",
   },
   {
@@ -34,13 +34,13 @@ const blogData: Blog[] = [
     title: "Tips to quickly improve your coding speed.",
     paragraph:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-03.jpg",
+    image: "/images/systemimg/2nd.png",
     author: {
       name: "Lethium Deo",
       image: "/images/blog/author-03.png",
       designation: "Graphic Designer",
     },
-    tags: ["design"],
+    tags: ["Native Tor Integration"],
     publishDate: "2025",
   },
 ];

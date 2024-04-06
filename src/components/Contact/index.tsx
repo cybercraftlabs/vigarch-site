@@ -15,7 +15,8 @@ const Contact = () => {
                 Need Help? Open a Ticket
               </h2>
               <p className="mb-12 text-base font-medium text-body-color">
-                Our support team will get back to you ASAP via email.
+                Our support team will get back to you ASAP via email.<br />
+                Or Hit me up on twitter at <a href="https://twitter.com/thehackersbrain">@thehackersbrain</a>
               </p>
               <form>
                 <div className="-mx-4 flex flex-wrap">
